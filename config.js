@@ -39,39 +39,39 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285850539404', '𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌', true],
-['6285943036511', '𝙾𝚜𝚌𝚊𝚛', true]
+['6285242489614', 'Yance 𝙾𝚏𝚏𝚌', true],
+['6285242489614', 'VENOM', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '0'
-global.nomorown = '6285850539404'
-global.nomorown1 = '6285850539404'
-global.nomorown2 = '6285943036511'
+global.nomorown = '6285242489614'
+global.nomorown1 = '6285242489614'
+global.nomorown2 = '6285242489614'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
-global.namebot = '𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝚍𝚎𝚟𝚒𝚌𝚎'
+global.author = '𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 Yance 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.namebot = 'VENOM-𝙼𝚞𝚕𝚝𝚒𝚍𝚎𝚟𝚒𝚌𝚎'
 global.wm = '© 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌 𝚇 𝙾𝚜𝚌𝚊𝚛'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.wm2 = 'Yance 𝚇 𝙾𝚜𝚌𝚊𝚛'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
-global.packname2 = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.packname2 = 'Yance 𝚇 𝙾𝚜𝚌𝚊𝚛'
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛`
-global.stickpack = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝚘𝚜𝚌𝚊𝚛'
-global.stickauth = `𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛`
+global.titlebot = `Yance 𝚇 𝙾𝚜𝚌𝚊𝚛`
+global.stickpack = 'Yance 𝚇 𝚘𝚜𝚌𝚊𝚛'
+global.stickauth = `Yance 𝚇 𝙾𝚜𝚌𝚊𝚛`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝙹𝚊𝚛𝚘𝚝 𝚘𝚏𝚏𝚌'
-global.nameown2 = '𝙾𝚜𝚌𝚊𝚛'
+global.nameown1= 'Yance 𝚘𝚏𝚏𝚌'
+global.nameown2 = 'VENOM'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = '𝚆𝚊𝚒𝚝'
 global.lynk = ''
@@ -85,12 +85,12 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085850539404'
+global.pdana = '085242489614'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404'
-global.ppulsa2 = '085850539404'
+global.ppulsa = '085242489614'
+global.ppulsa2 = '085242489614'
 global.psaweria = 'https://saweria.co/jarotoffc'
 
 
@@ -307,7 +307,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://instagram.com/jarotr_"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '085850539404'
+global.phn = '085242489614'
 
 global.thumbdoc = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
